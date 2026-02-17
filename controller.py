@@ -2,7 +2,7 @@ import time
 import os
 import psutil
 
-VMRUN = r"C:\Program Files (x86)\VMware\VMware Workstation\vmrun.exe"
+VMRUN = r"Vmrun path give here which u find in your C drive"
 
 VM2 = r"VirtualMachinespath u have to give here which end like -->\app-vm-2\app-vm-2.vmx"
 VM3 = r"VirtualMachinespath u have to give here which end like -->\app-vm-3\app-vm-3.vmx"
