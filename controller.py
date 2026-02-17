@@ -4,8 +4,8 @@ import psutil
 
 VMRUN = r"C:\Program Files (x86)\VMware\VMware Workstation\vmrun.exe"
 
-VM2 = r"C:\Users\Aditya Gaur\Documents\Virtual Machines\app-vm-2\app-vm-2.vmx"
-VM3 = r"C:\Users\Aditya Gaur\Documents\Virtual Machines\app-vm-3\app-vm-3.vmx"
+VM2 = r"VirtualMachinespath u have to give here which end like -->\app-vm-2\app-vm-2.vmx"
+VM3 = r"VirtualMachinespath u have to give here which end like -->\app-vm-3\app-vm-3.vmx"
 
 UPPER = 70
 VERY_HIGH = 85
